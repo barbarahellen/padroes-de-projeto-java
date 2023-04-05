@@ -1,4 +1,4 @@
-package one;
+package one.singleton;
 /*
  * Singleton "preguiçoso"
  * @author barbarahellen
